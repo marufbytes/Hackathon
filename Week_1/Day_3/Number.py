@@ -1,0 +1,16 @@
+num = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
+
+#print
+for i in num:
+    print(i, end=" ")
+
+
+#SUM
+print()
+sum=0
+for i in num:
+    sum +=i
+
+print("Sum: ",sum)
+
+
